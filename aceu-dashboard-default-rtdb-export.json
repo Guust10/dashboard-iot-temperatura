@@ -1,0 +1,2568 @@
+{
+  "leituras": {
+    "-P6KsAMAFwLDStaR5EPx": {
+      "temperatura": 23.9,
+      "timestamp": "2026-11-13 14:07:15"
+    },
+    "-P6KsATJfucFp5Urejn4": {
+      "temperatura": 23.9,
+      "timestamp": "2026-11-13 14:07:16"
+    },
+    "-P6KsAajTCoVCiX26S1h": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:16"
+    },
+    "-P6KsB4vJ1jxpz_3ydsG": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:18"
+    },
+    "-P6KsBo0p6Fvz8YBRY1w": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:20"
+    },
+    "-P6KsCMd5hRX0Uwbzq2k": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:23"
+    },
+    "-P6KsCcW2F2PuHf2rwzi": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:25"
+    },
+    "-P6KsD6f624_26gfBFzu": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:26"
+    },
+    "-P6KsDWnwifvsfHuVNqi": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:28"
+    },
+    "-P6KsEC_G7mO4Vyt5obE": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:30"
+    },
+    "-P6KsEYB1PolsU9MXQ6w": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:33"
+    },
+    "-P6KsF-RO6CV1cZ7ycQH": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:35"
+    },
+    "-P6KsFUOVeRyMBJMC56x": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:37"
+    },
+    "-P6KsFybBPrN-zNn4obe": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:38"
+    },
+    "-P6KsGUmjxyMMxKCFRTB": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:41"
+    },
+    "-P6KsGz7Cv2bndtPCjn9": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:43"
+    },
+    "-P6KsHT2GWShWp6T3UBx": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:45"
+    },
+    "-P6KsHx0K79Hdu-MowOy": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:47"
+    },
+    "-P6KsITr02deavQUurUk": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:49"
+    },
+    "-P6KsIwgizdkmIxgyJSy": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:51"
+    },
+    "-P6KsJSNHZu6rM_b608R": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:53"
+    },
+    "-P6KsK5KsbJW2z4cvxcY": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:55"
+    },
+    "-P6KsKQyLM2zpY0BqO7j": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:57"
+    },
+    "-P6KsKvMY0sC59r-EXRt": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:07:59"
+    },
+    "-P6KsLQm8QhvI4Hf3-zC": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:01"
+    },
+    "-P6KsLv3E3XtgMDJJAXB": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:03"
+    },
+    "-P6KsMQ8a1G_aCTsqVna": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:05"
+    },
+    "-P6KsMuI7WTqDe87kQPV": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:07"
+    },
+    "-P6KsNOW2Tadl1O6bEnL": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:09"
+    },
+    "-P6KsNuBEaIUDdSY9um_": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:11"
+    },
+    "-P6KsOTRcD__YWn-X2Mw": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:13"
+    },
+    "-P6KsOsy3r7AWvizWJPO": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:15"
+    },
+    "-P6KsPN02ZlH3mgGCQO3": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:17"
+    },
+    "-P6KsPv9ScfZaIr12RRS": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:19"
+    },
+    "-P6KsQM7ywF5zC0klCuz": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:21"
+    },
+    "-P6KsQrOgHncWUPZ0eTw": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:23"
+    },
+    "-P6KsRLoVlxkIBczXngU": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:25"
+    },
+    "-P6KsRvLsL6K_vFf2c71": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:27"
+    },
+    "-P6KsSTTnSJWvuH070Xp": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:29"
+    },
+    "-P6KsSp_UsbFcEXwEV6-": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:31"
+    },
+    "-P6KsT_ybdNIgVsv6AyB": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:33"
+    },
+    "-P6KsTouL-B10N6IpuDo": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:35"
+    },
+    "-P6KsUQi6sX5JRwbH5ru": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:37"
+    },
+    "-P6KsUoUglUfSA8ksarp": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:39"
+    },
+    "-P6KsVITG3ovwiQWd1gW": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:41"
+    },
+    "-P6KsVp3UjZKr6wtoAs2": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:43"
+    },
+    "-P6KsWIDPd45cJUJsX8l": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:08:45"
+    },
+    "-P6KsWmcxVV8-cU72AMT": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:47"
+    },
+    "-P6KsXIPLF-lrl_yPUSA": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:49"
+    },
+    "-P6KsXulKfxVHzbY5SGw": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:51"
+    },
+    "-P6KsYXkoZwHKVQTQvoy": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:54"
+    },
+    "-P6KsYsEC_GG05cijKY5": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:56"
+    },
+    "-P6KsZGy-hudJIu3UkpE": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:08:58"
+    },
+    "-P6KsZlrN2b_7BT5OfW9": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:00"
+    },
+    "-P6Ks_HsEVjlTYqxJgOO": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:02"
+    },
+    "-P6Ks_k1p9pET6DCzc8K": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:04"
+    },
+    "-P6KsaF57t3ldnbi55hK": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:06"
+    },
+    "-P6Ksak7fRy5gFmd_F5f": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:08"
+    },
+    "-P6KsbKyqp0CY6oIYCkP": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:10"
+    },
+    "-P6KsbmNv2FoMeNxrEYg": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:12"
+    },
+    "-P6KscF5DQXM9TdCDT2K": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:14"
+    },
+    "-P6Kscni8u82mY--psZD": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:16"
+    },
+    "-P6KsdmKmcMlVIQvsQQD": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:18"
+    },
+    "-P6Kse19H3ralrMgXeK_": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:21"
+    },
+    "-P6KseKjFroaiJ3Fu4NG": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:22"
+    },
+    "-P6KsejrxMmqj1xZlACj": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:24"
+    },
+    "-P6KsfE6etiQzr_Lr60i": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:26"
+    },
+    "-P6Ksg0HF8heaVvopv0S": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:28"
+    },
+    "-P6KsgHMuN1UiW8L-emu": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:30"
+    },
+    "-P6KsgiYHETVHYj-AMPH": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:32"
+    },
+    "-P6KshIab9gVxE1wDtUy": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:34"
+    },
+    "-P6KshfsrTAeeimfwDSn": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:09:36"
+    },
+    "-P6KsiJLKZCp388Qp5Bo": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:38"
+    },
+    "-P6KsihoehT4vtob4fRR": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:40"
+    },
+    "-P6KsjB7voZJioTCREpx": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:42"
+    },
+    "-P6KsjkPtgCrelchE8rf": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:44"
+    },
+    "-P6Ksk7zWFLCd9C5YuXE": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:46"
+    },
+    "-P6Kskl7dO5s0HF-sRUf": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:48"
+    },
+    "-P6KslMj4_gPA_RA5nHn": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:09:50"
+    },
+    "-P6Kslm44VY6A7cqTfRt": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:09:52"
+    },
+    "-P6KsmG2q8vkq8f5oX3Q": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:09:54"
+    },
+    "-P6KsmivsiQCAFaRwDIh": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:09:56"
+    },
+    "-P6KsnLIe7pL3JSrt7g1": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:09:58"
+    },
+    "-P6KsoTCU1R5TLpmNH6w": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:01"
+    },
+    "-P6Ksow1w2YacxGEEiNX": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:05"
+    },
+    "-P6KsrN5BtPxshC5TW5o": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:07"
+    },
+    "-P6Ksrk7svRJNJMnLa65": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:16"
+    },
+    "-P6Kss0SSGfCMZOsq3GJ": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:18"
+    },
+    "-P6KssH1YTFdZEwEyIFW": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:19"
+    },
+    "-P6KssZpBxKxraBDstji": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:20"
+    },
+    "-P6KssjXkw0SzltDKDWH": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:21"
+    },
+    "-P6Ksszbg1UGRK7GJHyA": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:22"
+    },
+    "-P6KstN6b7p5KeWDNLQC": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:23"
+    },
+    "-P6KstnQYaLXxtQOt2pS": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:25"
+    },
+    "-P6Ksu3C20G_C3H52U8p": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:26"
+    },
+    "-P6Ksv6Fftm9XjZIFEhl": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:28"
+    },
+    "-P6KsvITlmK5JWo_rDIn": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:32"
+    },
+    "-P6KsvZ94g-BSxrh8vJq": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:33"
+    },
+    "-P6KsxMxCl9mngOuRqVt": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:34"
+    },
+    "-P6Ksx_DPWmgbK2btJ2T": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:41"
+    },
+    "-P6KsxsRLh1EdJtRmWYq": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:42"
+    },
+    "-P6Ksy5H0nyevBIFGSD8": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:43"
+    },
+    "-P6KsyIaGcPsZV588JMO": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:44"
+    },
+    "-P6KsyTy3y4cixYVdFWu": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:45"
+    },
+    "-P6KsykLfDBICZZOduik": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:46"
+    },
+    "-P6Ksz-iDWkEU2PVF-Yn": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:47"
+    },
+    "-P6Ksz9JlwRkiSR6gVd2": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:48"
+    },
+    "-P6KszZTxyj_yioub9UV": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:49"
+    },
+    "-P6Kt-0gPXt3rzD5JV2G": {
+      "temperatura": 24,
+      "timestamp": "2026-11-13 14:10:51"
+    },
+    "-P6Kt-Un6K0Zp4SNGMRN": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:53"
+    },
+    "-P6Kt-wUmDNMiYVNg4nZ": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:55"
+    },
+    "-P6Kt0YsVnUo2KH7dyVA": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:57"
+    },
+    "-P6Kt13cv2aSw4xZIQHC": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:10:59"
+    },
+    "-P6Kt1SqaFqGY5scW4cM": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:01"
+    },
+    "-P6Kt20WIt_qmdQdPxuf": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:03"
+    },
+    "-P6Kt2Ubs4pXMh3m_Iin": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:05"
+    },
+    "-P6Kt34i4ZWd52oP2B62": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:07"
+    },
+    "-P6Kt3pIgse_wwUz-2fB": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:09"
+    },
+    "-P6Kt47wJRLkxQ-DQ7dR": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:11"
+    },
+    "-P6Kt4odS09Y-Dkwizvi": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:13"
+    },
+    "-P6Kt5-ojQQ2g8DxJJp_": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:15"
+    },
+    "-P6Kt5SRSNFZ8X1nk_MH": {
+      "temperatura": 24.1,
+      "timestamp": "2026-11-13 14:11:17"
+    },
+    "-P6Kt6Eu7xq5y8DUHXiu": {
+      "temperatura": 24.2,
+      "timestamp": "2026-11-13 14:11:19"
+    },
+    "-P6Kt6WwZv-wPczqFTsS": {
+      "temperatura": 24.2,
+      "timestamp": "2026-11-13 14:11:21"
+    },
+    "-P6Kt6wDUP238zd0Xrg9": {
+      "temperatura": 24.2,
+      "timestamp": "2026-11-13 14:11:23"
+    },
+    "-P6Kt7SpOGq9ait6muh8": {
+      "temperatura": 24.2,
+      "timestamp": "2026-11-13 14:11:25"
+    },
+    "-P6Kt9ZL5n1r7H31O96V": {
+      "temperatura": 24.4,
+      "timestamp": "2026-11-13 14:11:27"
+    },
+    "-P6Kt9lboQmIqPS-YcN8": {
+      "temperatura": 24.7,
+      "timestamp": "2026-11-13 14:11:35"
+    },
+    "-P6Kt9uvCWNIC-uSNz46": {
+      "temperatura": 24.9,
+      "timestamp": "2026-11-13 14:11:36"
+    },
+    "-P6KtA8IN14DzuGZ1S6X": {
+      "temperatura": 25.2,
+      "timestamp": "2026-11-13 14:11:36"
+    },
+    "-P6KtAKqWRb63zWXvYJN": {
+      "temperatura": 25.6,
+      "timestamp": "2026-11-13 14:11:37"
+    },
+    "-P6KtAcJ4uBaNgk9zJ_K": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:11:38"
+    },
+    "-P6KtApR2XJEvPASs0jC": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:11:40"
+    },
+    "-P6KtC4Vu7GjZiSId4L4": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:11:42"
+    },
+    "-P6KtCDQJo6tlkBNjfYX": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:11:45"
+    },
+    "-P6KtCQAt6dm4cJ0DQUg": {
+      "temperatura": 26.9,
+      "timestamp": "2026-11-13 14:11:46"
+    },
+    "-P6KtCqGU5lna9fPJizm": {
+      "temperatura": 27.2,
+      "timestamp": "2026-11-13 14:11:48"
+    },
+    "-P6KtDJmMZxnL8SIGRHK": {
+      "temperatura": 27.4,
+      "timestamp": "2026-11-13 14:11:50"
+    },
+    "-P6KtDuOosMbzkQAvMVb": {
+      "temperatura": 27.7,
+      "timestamp": "2026-11-13 14:11:52"
+    },
+    "-P6KtEXmWF7RT9RJOf6d": {
+      "temperatura": 28,
+      "timestamp": "2026-11-13 14:11:54"
+    },
+    "-P6KtG1rJ2utPedRamNQ": {
+      "temperatura": 28.3,
+      "timestamp": "2026-11-13 14:11:56"
+    },
+    "-P6KtGcP61ZU3K5n-Zl5": {
+      "temperatura": 28.4,
+      "timestamp": "2026-11-13 14:12:02"
+    },
+    "-P6KtGqqXV1hPQ4vwMjS": {
+      "temperatura": 28.5,
+      "timestamp": "2026-11-13 14:12:04"
+    },
+    "-P6KtH4mAETRWvnfA3Fr": {
+      "temperatura": 28.5,
+      "timestamp": "2026-11-13 14:12:05"
+    },
+    "-P6KtHIj6IM6lnDtQlnS": {
+      "temperatura": 28.6,
+      "timestamp": "2026-11-13 14:12:06"
+    },
+    "-P6KtHRydsptd7NVFsLk": {
+      "temperatura": 28.7,
+      "timestamp": "2026-11-13 14:12:07"
+    },
+    "-P6KtHmey8X_LLvRzZWo": {
+      "temperatura": 28.8,
+      "timestamp": "2026-11-13 14:12:08"
+    },
+    "-P6KtIEdlfnVmk6S1l0k": {
+      "temperatura": 28.9,
+      "timestamp": "2026-11-13 14:12:10"
+    },
+    "-P6KtIpiiIDtm3NSwG0R": {
+      "temperatura": 28.9,
+      "timestamp": "2026-11-13 14:12:12"
+    },
+    "-P6KtJJYiLlDgNy2wrO0": {
+      "temperatura": 29,
+      "timestamp": "2026-11-13 14:12:14"
+    },
+    "-P6KtJrFvhWXpIRj9zBl": {
+      "temperatura": 29,
+      "timestamp": "2026-11-13 14:12:16"
+    },
+    "-P6KtKEtpcolPrcZqL5s": {
+      "temperatura": 29,
+      "timestamp": "2026-11-13 14:12:18"
+    },
+    "-P6KtL69HFAWy1QPxXEO": {
+      "temperatura": 29.1,
+      "timestamp": "2026-11-13 14:12:20"
+    },
+    "-P6KtLMP6SP_b8XgOSPo": {
+      "temperatura": 29.2,
+      "timestamp": "2026-11-13 14:12:22"
+    },
+    "-P6KtLlaXTA7Z3CX1vuK": {
+      "temperatura": 29.2,
+      "timestamp": "2026-11-13 14:12:24"
+    },
+    "-P6KtMXu7xx-kWkO0onv": {
+      "temperatura": 29.2,
+      "timestamp": "2026-11-13 14:12:26"
+    },
+    "-P6KtMo0IEp4zsqvFcfm": {
+      "temperatura": 29.3,
+      "timestamp": "2026-11-13 14:12:28"
+    },
+    "-P6KtNCi7g1VzEgKkDfg": {
+      "temperatura": 29.4,
+      "timestamp": "2026-11-13 14:12:30"
+    },
+    "-P6KtNhiWF_Z5ejvAOv3": {
+      "temperatura": 29.4,
+      "timestamp": "2026-11-13 14:12:32"
+    },
+    "-P6KtOGnegyTeansgwLP": {
+      "temperatura": 29.4,
+      "timestamp": "2026-11-13 14:12:34"
+    },
+    "-P6KtOgbGopxrPYlwNQM": {
+      "temperatura": 29.5,
+      "timestamp": "2026-11-13 14:12:36"
+    },
+    "-P6KtPHuBHC5GWWY_ezI": {
+      "temperatura": 29.5,
+      "timestamp": "2026-11-13 14:12:38"
+    },
+    "-P6KtPfzoMeeyc2YPLc5": {
+      "temperatura": 29.6,
+      "timestamp": "2026-11-13 14:12:40"
+    },
+    "-P6KtQSItp9lJRby6i51": {
+      "temperatura": 29.6,
+      "timestamp": "2026-11-13 14:12:42"
+    },
+    "-P6KtQfqa88zUC7ZnSmo": {
+      "temperatura": 29.7,
+      "timestamp": "2026-11-13 14:12:44"
+    },
+    "-P6KtRDZeNQbWAvLtrKD": {
+      "temperatura": 29.7,
+      "timestamp": "2026-11-13 14:12:46"
+    },
+    "-P6KtRdePiy1Hm-x0Rvp": {
+      "temperatura": 29.7,
+      "timestamp": "2026-11-13 14:12:48"
+    },
+    "-P6KtSHaBYoeNaXIiT6R": {
+      "temperatura": 29.7,
+      "timestamp": "2026-11-13 14:12:50"
+    },
+    "-P6KtSoREJiRxnMd5ZpX": {
+      "temperatura": 29.8,
+      "timestamp": "2026-11-13 14:12:52"
+    },
+    "-P6KtTDXcC9xSAkVS2Nh": {
+      "temperatura": 29.8,
+      "timestamp": "2026-11-13 14:12:54"
+    },
+    "-P6KtTbqf-rBcDAXp_qm": {
+      "temperatura": 29.9,
+      "timestamp": "2026-11-13 14:12:57"
+    },
+    "-P6KtU8xdSa1gJkZVnor": {
+      "temperatura": 29.9,
+      "timestamp": "2026-11-13 14:12:58"
+    },
+    "-P6KtUfdFDV--N4KPk1Q": {
+      "temperatura": 29.9,
+      "timestamp": "2026-11-13 14:13:01"
+    },
+    "-P6KtV9TqY45F0FyvSoV": {
+      "temperatura": 29.9,
+      "timestamp": "2026-11-13 14:13:03"
+    },
+    "-P6KtVgjmFDHr31-x2Vf": {
+      "temperatura": 30,
+      "timestamp": "2026-11-13 14:13:05"
+    },
+    "-P6KtWN3MEQJolLC63J2": {
+      "temperatura": 30,
+      "timestamp": "2026-11-13 14:13:07"
+    },
+    "-P6KtWZkwucIjFejMWz_": {
+      "temperatura": 30,
+      "timestamp": "2026-11-13 14:13:09"
+    },
+    "-P6KtXBCzPSwH88rgMvW": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:11"
+    },
+    "-P6KtXaPLm4XyzGYrAD2": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:13"
+    },
+    "-P6KtYKm5k9nKURYFjlu": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:15"
+    },
+    "-P6KtYcgS_zdxJtFw5LC": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:17"
+    },
+    "-P6KtZ6wKROgpx572nuD": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:19"
+    },
+    "-P6KtZ_dmDaGWnQlZmRv": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:21"
+    },
+    "-P6Kt_IbQUUzpbleucZP": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:23"
+    },
+    "-P6KtaLyyDNOYfNGMlgt": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:25"
+    },
+    "-P6KtaamHSbVbW_wZM8D": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:29"
+    },
+    "-P6KtasKSSAgPiqhMrC1": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:30"
+    },
+    "-P6KtbX0STmKlVw9dTje": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:31"
+    },
+    "-P6Ktblb_nIEm_iZzeu_": {
+      "temperatura": 30.1,
+      "timestamp": "2026-11-13 14:13:34"
+    },
+    "-P6KtcCs5tqSf3z_a59n": {
+      "temperatura": 30,
+      "timestamp": "2026-11-13 14:13:35"
+    },
+    "-P6KtcYjbCOt-7cz-4KJ": {
+      "temperatura": 30,
+      "timestamp": "2026-11-13 14:13:37"
+    },
+    "-P6Ktd4Y9h1nqfdy0_Dp": {
+      "temperatura": 29.9,
+      "timestamp": "2026-11-13 14:13:39"
+    },
+    "-P6KtdpFExT3CV6hK256": {
+      "temperatura": 29.9,
+      "timestamp": "2026-11-13 14:13:41"
+    },
+    "-P6KteClcurz-psoQ6ef": {
+      "temperatura": 29.7,
+      "timestamp": "2026-11-13 14:13:43"
+    },
+    "-P6Kte_difVef_BcOuZs": {
+      "temperatura": 29.7,
+      "timestamp": "2026-11-13 14:13:45"
+    },
+    "-P6Ktf0AqERBGUarNXzN": {
+      "temperatura": 29.6,
+      "timestamp": "2026-11-13 14:13:47"
+    },
+    "-P6KtfZyfiKv_sNS-g71": {
+      "temperatura": 29.5,
+      "timestamp": "2026-11-13 14:13:49"
+    },
+    "-P6Ktfz6SPmU-NTYHtV0": {
+      "temperatura": 29.4,
+      "timestamp": "2026-11-13 14:13:51"
+    },
+    "-P6Ktgw8p4kcbXX7La7Z": {
+      "temperatura": 29.4,
+      "timestamp": "2026-11-13 14:13:53"
+    },
+    "-P6KthG38lhF1afvWssO": {
+      "temperatura": 29.3,
+      "timestamp": "2026-11-13 14:13:56"
+    },
+    "-P6Kthd_1HS12kIPkn-D": {
+      "temperatura": 29.2,
+      "timestamp": "2026-11-13 14:13:57"
+    },
+    "-P6Kti2mdUzZDJpoxArm": {
+      "temperatura": 29.2,
+      "timestamp": "2026-11-13 14:13:59"
+    },
+    "-P6KtiXZX-u0FSx17pCX": {
+      "temperatura": 29.1,
+      "timestamp": "2026-11-13 14:14:01"
+    },
+    "-P6Ktj9YIxcP_5tdxYnu": {
+      "temperatura": 29,
+      "timestamp": "2026-11-13 14:14:03"
+    },
+    "-P6KtjtGl6I_P-viqED5": {
+      "temperatura": 29,
+      "timestamp": "2026-11-13 14:14:05"
+    },
+    "-P6KtkWW9jx6n38KvMZ2": {
+      "temperatura": 29,
+      "timestamp": "2026-11-13 14:14:08"
+    },
+    "-P6KtkrBlbB2WgJTIrI_": {
+      "temperatura": 28.9,
+      "timestamp": "2026-11-13 14:14:11"
+    },
+    "-P6Ktl-aZB8leT447zGf": {
+      "temperatura": 28.9,
+      "timestamp": "2026-11-13 14:14:12"
+    },
+    "-P6KtlQAEOANA3plywvm": {
+      "temperatura": 28.8,
+      "timestamp": "2026-11-13 14:14:13"
+    },
+    "-P6Ktm0FTSEU3Ic1eNPf": {
+      "temperatura": 28.8,
+      "timestamp": "2026-11-13 14:14:15"
+    },
+    "-P6KtmSDAaBipXc6-GBY": {
+      "temperatura": 28.8,
+      "timestamp": "2026-11-13 14:14:18"
+    },
+    "-P6KtmvhsqhgEb-Xe0M1": {
+      "temperatura": 28.7,
+      "timestamp": "2026-11-13 14:14:19"
+    },
+    "-P6KtnzT9suIpxpk2aKE": {
+      "temperatura": 28.7,
+      "timestamp": "2026-11-13 14:14:21"
+    },
+    "-P6KtoOMIFgf5WOKCAFL": {
+      "temperatura": 28.6,
+      "timestamp": "2026-11-13 14:14:25"
+    },
+    "-P6Ktoybimrf7rn_6TEd": {
+      "temperatura": 28.5,
+      "timestamp": "2026-11-13 14:14:27"
+    },
+    "-P6Ktq2PdIA7VOWKuJpH": {
+      "temperatura": 28.5,
+      "timestamp": "2026-11-13 14:14:31"
+    },
+    "-P6Ktq_dTpYyxNy-D5fy": {
+      "temperatura": 28.5,
+      "timestamp": "2026-11-13 14:14:34"
+    },
+    "-P6Ktqz2_wmS31tVHXsw": {
+      "temperatura": 28.4,
+      "timestamp": "2026-11-13 14:14:35"
+    },
+    "-P6KtrY6jKToSyrXc2YU": {
+      "temperatura": 28.4,
+      "timestamp": "2026-11-13 14:14:37"
+    },
+    "-P6Kts2tggEkttToua7u": {
+      "temperatura": 28.4,
+      "timestamp": "2026-11-13 14:14:40"
+    },
+    "-P6KtsTwTRBrq9-RdfT9": {
+      "temperatura": 28.4,
+      "timestamp": "2026-11-13 14:14:42"
+    },
+    "-P6KtsyPqGuZsuoTQhRs": {
+      "temperatura": 28.3,
+      "timestamp": "2026-11-13 14:14:43"
+    },
+    "-P6Ktt7osBo-2fmd9zPs": {
+      "temperatura": 28.3,
+      "timestamp": "2026-11-13 14:14:45"
+    },
+    "-P6KttKvhaN6D0YDObfb": {
+      "temperatura": 28.3,
+      "timestamp": "2026-11-13 14:14:46"
+    },
+    "-P6KttkC3HbO_X6PmtnO": {
+      "temperatura": 28.3,
+      "timestamp": "2026-11-13 14:14:47"
+    },
+    "-P6KttxBUWhjBj4keTLU": {
+      "temperatura": 28.3,
+      "timestamp": "2026-11-13 14:14:48"
+    },
+    "-P6KtuViu-IuXuaxfJqI": {
+      "temperatura": 28.3,
+      "timestamp": "2026-11-13 14:14:50"
+    },
+    "-P6KtvHLDUB6-wU0SK7E": {
+      "temperatura": 28.2,
+      "timestamp": "2026-11-13 14:14:54"
+    },
+    "-P6KtwN2gUEWzRf9nkFt": {
+      "temperatura": 28.2,
+      "timestamp": "2026-11-13 14:14:54"
+    },
+    "-P6KtwblLPlURE3fYW5l": {
+      "temperatura": 28.2,
+      "timestamp": "2026-11-13 14:14:59"
+    },
+    "-P6Ktwod_SAAyQ64DYC5": {
+      "temperatura": 28.2,
+      "timestamp": "2026-11-13 14:15:00"
+    },
+    "-P6Ktx8KGERn1iOd_LO6": {
+      "temperatura": 28.1,
+      "timestamp": "2026-11-13 14:15:01"
+    },
+    "-P6Ktxl5LSuammoT52uC": {
+      "temperatura": 28.1,
+      "timestamp": "2026-11-13 14:15:04"
+    },
+    "-P6KtyZdxG575z8wIKm_": {
+      "temperatura": 28.1,
+      "timestamp": "2026-11-13 14:15:07"
+    },
+    "-P6Ktz6Xq-ETtevUpqhh": {
+      "temperatura": 28,
+      "timestamp": "2026-11-13 14:15:09"
+    },
+    "-P6KtzYNAumoxm7wSIhq": {
+      "temperatura": 28,
+      "timestamp": "2026-11-13 14:15:11"
+    },
+    "-P6Ku-8SsOHLloMEDYg8": {
+      "temperatura": 28,
+      "timestamp": "2026-11-13 14:15:13"
+    },
+    "-P6Ku-Zu_5pg-N-rdG8W": {
+      "temperatura": 27.9,
+      "timestamp": "2026-11-13 14:15:15"
+    },
+    "-P6Ku02Udf8JaQyVIULD": {
+      "temperatura": 27.9,
+      "timestamp": "2026-11-13 14:15:17"
+    },
+    "-P6Ku0nfdpmBxZ1bLVOa": {
+      "temperatura": 27.9,
+      "timestamp": "2026-11-13 14:15:19"
+    },
+    "-P6Ku10esE90cESAeQP2": {
+      "temperatura": 27.9,
+      "timestamp": "2026-11-13 14:15:21"
+    },
+    "-P6Ku1WSYKtMqpiZuGHj": {
+      "temperatura": 27.8,
+      "timestamp": "2026-11-13 14:15:23"
+    },
+    "-P6Ku36yy7P-ljt7ugXf": {
+      "temperatura": 27.8,
+      "timestamp": "2026-11-13 14:15:25"
+    },
+    "-P6Ku3R2E0tbYTgmO1AQ": {
+      "temperatura": 27.7,
+      "timestamp": "2026-11-13 14:15:31"
+    },
+    "-P6Ku3gRY_foyZgisOzF": {
+      "temperatura": 27.6,
+      "timestamp": "2026-11-13 14:15:32"
+    },
+    "-P6Ku43JirkSYEsyZHK-": {
+      "temperatura": 27.7,
+      "timestamp": "2026-11-13 14:15:33"
+    },
+    "-P6Ku4NPEJkn6nlrMLBI": {
+      "temperatura": 27.6,
+      "timestamp": "2026-11-13 14:15:35"
+    },
+    "-P6Ku4f5fEzwMl5DeNSr": {
+      "temperatura": 27.6,
+      "timestamp": "2026-11-13 14:15:36"
+    },
+    "-P6Ku4wHYHyntPHek7ir": {
+      "temperatura": 27.5,
+      "timestamp": "2026-11-13 14:15:37"
+    },
+    "-P6Ku6aqCjPtvkqcvND1": {
+      "temperatura": 27.4,
+      "timestamp": "2026-11-13 14:15:39"
+    },
+    "-P6Ku6yR8dQxDxnDvGKo": {
+      "temperatura": 27.4,
+      "timestamp": "2026-11-13 14:15:45"
+    },
+    "-P6Ku7J5YVuece8z7tyY": {
+      "temperatura": 27.3,
+      "timestamp": "2026-11-13 14:15:47"
+    },
+    "-P6Ku7cXmtrEIBnmcN2q": {
+      "temperatura": 27.3,
+      "timestamp": "2026-11-13 14:15:48"
+    },
+    "-P6Ku7tfVgZgCaVjgxIc": {
+      "temperatura": 27.2,
+      "timestamp": "2026-11-13 14:15:49"
+    },
+    "-P6Ku8bXNNKwACUaH3yI": {
+      "temperatura": 27.2,
+      "timestamp": "2026-11-13 14:15:50"
+    },
+    "-P6Ku8ukaZ2RosJJOZ30": {
+      "temperatura": 27.2,
+      "timestamp": "2026-11-13 14:15:53"
+    },
+    "-P6Ku97G4QHLC8JaAHs7": {
+      "temperatura": 27.1,
+      "timestamp": "2026-11-13 14:15:54"
+    },
+    "-P6Ku9SLzzTdUJIj85-b": {
+      "temperatura": 27.2,
+      "timestamp": "2026-11-13 14:15:56"
+    },
+    "-P6Ku9ve_UV6aKt7LKsa": {
+      "temperatura": 27,
+      "timestamp": "2026-11-13 14:15:58"
+    },
+    "-P6KuAQ22ywGHfQkHHAQ": {
+      "temperatura": 27,
+      "timestamp": "2026-11-13 14:16:00"
+    },
+    "-P6KuAuXqYZ1n_YJs447": {
+      "temperatura": 27,
+      "timestamp": "2026-11-13 14:16:02"
+    },
+    "-P6KuBQzGjiIjfMD3bmo": {
+      "temperatura": 27,
+      "timestamp": "2026-11-13 14:16:04"
+    },
+    "-P6KuBxsCEQ4SvayR0pt": {
+      "temperatura": 27,
+      "timestamp": "2026-11-13 14:16:06"
+    },
+    "-P6KuCPkVT7Q_mAYYk_Y": {
+      "temperatura": 27,
+      "timestamp": "2026-11-13 14:16:08"
+    },
+    "-P6KuCvcLN9re7TeCuPw": {
+      "temperatura": 26.9,
+      "timestamp": "2026-11-13 14:16:10"
+    },
+    "-P6KuDN9YX1UxRnWdyHU": {
+      "temperatura": 27,
+      "timestamp": "2026-11-13 14:16:12"
+    },
+    "-P6KuDrVqL0L4F1cbTSJ": {
+      "temperatura": 26.9,
+      "timestamp": "2026-11-13 14:16:14"
+    },
+    "-P6KuENZRK-LXI5H5ekZ": {
+      "temperatura": 26.9,
+      "timestamp": "2026-11-13 14:16:16"
+    },
+    "-P6KuEqTbYBg9oWWEt7f": {
+      "temperatura": 26.9,
+      "timestamp": "2026-11-13 14:16:18"
+    },
+    "-P6KuFOdF7gDHW0u9URt": {
+      "temperatura": 26.9,
+      "timestamp": "2026-11-13 14:16:20"
+    },
+    "-P6KuFtDclUdnXKP0blu": {
+      "temperatura": 26.9,
+      "timestamp": "2026-11-13 14:16:22"
+    },
+    "-P6KuGLM1tdY6haj0PSz": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:24"
+    },
+    "-P6KuGy1gA-0FkWOmRmS": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:26"
+    },
+    "-P6KuHKv64v3a-j5u0-E": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:28"
+    },
+    "-P6KuHuWfb4hfVmdRcfR": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:30"
+    },
+    "-P6KuILgIW6yG3aa796_": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:32"
+    },
+    "-P6KuIlOlG1zG058BVLZ": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:34"
+    },
+    "-P6KuJF01NNv86gcpwo5": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:36"
+    },
+    "-P6KuL7gW8y7kMmB5z9f": {
+      "temperatura": 26.8,
+      "timestamp": "2026-11-13 14:16:38"
+    },
+    "-P6KuLKw5RpptwbzrYFO": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:45"
+    },
+    "-P6KuLUXGOg7FR24vfJN": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:45"
+    },
+    "-P6KuLeNuVWb9NbDv9i_": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:46"
+    },
+    "-P6KuLtSWKwR0LIh8W1t": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:47"
+    },
+    "-P6KuMEIZ7AQN-qngJoE": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:48"
+    },
+    "-P6KuMm03Gn-HoHtkE9R": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:50"
+    },
+    "-P6KuNBMj8MjMzfpGB-L": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:52"
+    },
+    "-P6KuNncqeDVc6N_eU4w": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:54"
+    },
+    "-P6KuODqSfTij5i7kOk5": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:56"
+    },
+    "-P6KuOmMGN6NcVcu0pp2": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:16:58"
+    },
+    "-P6KuPFyNNnOm87WG4q-": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:00"
+    },
+    "-P6KuQ-iO6xyvlUC7HNz": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:02"
+    },
+    "-P6KuQ8gBqBElylVwIn6": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:04"
+    },
+    "-P6KuQsihXxd6tvGag9C": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:07"
+    },
+    "-P6KuRBND5IuZ4vcBX32": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:09"
+    },
+    "-P6KuRk3_5lsymeIACZc": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:11"
+    },
+    "-P6KuSDepNfqKP1S9HVo": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:13"
+    },
+    "-P6KuSilC3IXeJ4RjFZS": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:15"
+    },
+    "-P6KuTLe_Iit7fX7TvYG": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:17"
+    },
+    "-P6KuTo115twtN_xHMZC": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:19"
+    },
+    "-P6KuU9orGBKg6ccjyG5": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:21"
+    },
+    "-P6KuUehIjr_vwT1FRnq": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:23"
+    },
+    "-P6KuV9RJoRO60M-wHOw": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:25"
+    },
+    "-P6KuWGyliYMQZ_WJ7aT": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:27"
+    },
+    "-P6KuWchxn4V8sU_Dnox": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:30"
+    },
+    "-P6KuXDHC2YUt148d1sl": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:32"
+    },
+    "-P6KuXPtRqsJDVUCG4J-": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:34"
+    },
+    "-P6KuXcaoQwfY5A3qns4": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:35"
+    },
+    "-P6KuYAgXor9L1IJUlGU": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:37"
+    },
+    "-P6KuY_r6Z6rNRtW-Dyj": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:39"
+    },
+    "-P6KuZDwIhWvoy7AIFUU": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:41"
+    },
+    "-P6KuZ_VkwxzJN1eWi_j": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:43"
+    },
+    "-P6Ku_80BvUin-HKou-9": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:45"
+    },
+    "-P6Ku_aj8RM_JpAHYODw": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:47"
+    },
+    "-P6Kua40lekHrgMti5pM": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:49"
+    },
+    "-P6Kuab9LhR8Mqbg5DBy": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:51"
+    },
+    "-P6Kub3-oSz6JlzT9m3M": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:53"
+    },
+    "-P6Kuc6ShVOtEmZQH-hj": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:55"
+    },
+    "-P6KuccfOj7EA-fu4XZs": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:17:58"
+    },
+    "-P6KucqvvDk5ceBaiZa-": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:00"
+    },
+    "-P6Kud1E6-HnLHAiw1wG": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:01"
+    },
+    "-P6Kuda2Y-ZxltGgskoG": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:03"
+    },
+    "-P6Kue2tyjtiOezSh9jW": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:05"
+    },
+    "-P6KuedHJx3Zaqogwhme": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:07"
+    },
+    "-P6KueysUtarNJMWjedg": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:09"
+    },
+    "-P6KufXE-ivRk5taeFxj": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:11"
+    },
+    "-P6Kug5Zp-7zHgLkMhEn": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:13"
+    },
+    "-P6Kug_bGIZdj__R1QCM": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:15"
+    },
+    "-P6Kuh0dgeJBFSUbBiS5": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:17"
+    },
+    "-P6KuhYWmGWD9sapkrRv": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:19"
+    },
+    "-P6Kui6ByAcQzBOsI98E": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:21"
+    },
+    "-P6KuiTVH_mgiA9VzpZk": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:23"
+    },
+    "-P6Kuj2coDlDzAXYgs_e": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:26"
+    },
+    "-P6KujS8IpoS03B0gv2U": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:28"
+    },
+    "-P6KujwT9P-PwooSrimf": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:30"
+    },
+    "-P6KukS5fV_0iyrPea1N": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:32"
+    },
+    "-P6KukyNza_U4NWIxSvZ": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:34"
+    },
+    "-P6KulTtWzr3evaegw7n": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:36"
+    },
+    "-P6Kum-5PNm-jQqsO6IO": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:38"
+    },
+    "-P6KumPymlOWPHhqp1S2": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:40"
+    },
+    "-P6KumuEFeRYnzcVE4Cw": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:42"
+    },
+    "-P6KunOu0ll7Ks2DDdPx": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:44"
+    },
+    "-P6Kunz5vx0UB-zbX_89": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:46"
+    },
+    "-P6KuoQINQLCf-jL8AQ-": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:48"
+    },
+    "-P6Kuox2A50bUKQZgoV8": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:50"
+    },
+    "-P6KupPPnZwL4PVl8N5m": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:52"
+    },
+    "-P6KuptUt_l3xDZcZL7D": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:54"
+    },
+    "-P6KuqRise394r3wSUmO": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:56"
+    },
+    "-P6Kur96DC0x80QHWpel": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:18:58"
+    },
+    "-P6KurUv0_jH0OO14trO": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:00"
+    },
+    "-P6Kurt9a6uvPUkFj61w": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:02"
+    },
+    "-P6KusQvZFQjOQ5JO8aG": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:04"
+    },
+    "-P6KussbnTKI4rjrKy56": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:06"
+    },
+    "-P6KutNKpTVkb1soJ_rm": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:08"
+    },
+    "-P6KutuU1xE-K9BTYz8S": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:10"
+    },
+    "-P6KuuKv0eHkZ11iFwxO": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:12"
+    },
+    "-P6KuurEAhRrwTT6iwI7": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:14"
+    },
+    "-P6KuvNnKr_i2D9r1mBF": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:16"
+    },
+    "-P6KuvpAg5D85qytWbre": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:18"
+    },
+    "-P6KuwQuVJZg8ZloS1cd": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:20"
+    },
+    "-P6KuwqQUKyh7Bh--gb3": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:22"
+    },
+    "-P6Kuxnj5yBH5WS-w-Ro": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:24"
+    },
+    "-P6Kuy0r97H6OrWuNK6b": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:27"
+    },
+    "-P6KuyJ_V0MnDW7vOEaP": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:28"
+    },
+    "-P6Kuyw0oYfR4guBiZ4o": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:30"
+    },
+    "-P6Kuzki0H4Krelx1V55": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:33"
+    },
+    "-P6Kuzxhy1mMzjCjTEJD": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:35"
+    },
+    "-P6Kv-FIUo5W22uU9cNe": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:36"
+    },
+    "-P6Kv-k2LLX-9rcj1nC0": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:38"
+    },
+    "-P6Kv0JGOYKLuEFpVU3t": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:40"
+    },
+    "-P6Kv2N6yJzTN0ctduzn": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:42"
+    },
+    "-P6Kv2q2YHcQdfRT-HDq": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:50"
+    },
+    "-P6Kv3BNbJzb_ZNt0kC8": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:52"
+    },
+    "-P6Kv3Sbdh0hYAXr1e0n": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:53"
+    },
+    "-P6Kv3gEiSJDCVSkqFUg": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:54"
+    },
+    "-P6Kv3r-usgyde_ne4DJ": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:55"
+    },
+    "-P6Kv42Z3Uy_5uoLIzBZ": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:56"
+    },
+    "-P6Kv5--QFNCf6IvM5kk": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:19:57"
+    },
+    "-P6Kv5CtCJYGw9LvUZv6": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:01"
+    },
+    "-P6Kv5TdJXjufngXjlCN": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:01"
+    },
+    "-P6Kv65u1m1KYZB4Qoix": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:03"
+    },
+    "-P6Kv6TfSZqcTu_in8fD": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:05"
+    },
+    "-P6Kv6fNsRybhR-6HGfx": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:07"
+    },
+    "-P6Kv7CoDyVLZOxyj3nr": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:09"
+    },
+    "-P6Kv7wiwDRq5rsLzAcr": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:11"
+    },
+    "-P6Kv8Sf6U_YTjRZJ4Vd": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:13"
+    },
+    "-P6Kv8zIs5OUi6WlDlM2": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:15"
+    },
+    "-P6Kv98QYOjswxxPa2iA": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:17"
+    },
+    "-P6Kv9j8GS0DIPHGLzj_": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:19"
+    },
+    "-P6KvADhRQzk5ZbANlL3": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:21"
+    },
+    "-P6KvAbvPm4eo8p97hPx": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:23"
+    },
+    "-P6KvCDYviLT3fEgxrQ_": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:25"
+    },
+    "-P6KvCOegZV56KIiJR9L": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:30"
+    },
+    "-P6KvCbOhc_cva0Lt3sa": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:31"
+    },
+    "-P6KvCmdU5ja9OUsVpzl": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:32"
+    },
+    "-P6KvD62pAJTbyXWB13d": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:33"
+    },
+    "-P6KvDv5s5eCiaiAUTs6": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:35"
+    },
+    "-P6KvEO0EIjmD2suQJu3": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:37"
+    },
+    "-P6KvE_nrV_1TEZCF4aT": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:39"
+    },
+    "-P6KvFONf144SsaBGMCK": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:41"
+    },
+    "-P6KvFloom0cqyEWYXZP": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:43"
+    },
+    "-P6KvG5OAgdkdE_WhV6c": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:45"
+    },
+    "-P6KvGbr1EYg-bIkCLFD": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:20:47"
+    },
+    "-P6KvH3jd6cIxjqx0Al_": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:20:49"
+    },
+    "-P6KvHmqWXmG036KnXaS": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:51"
+    },
+    "-P6KvI4QYQJ858KRLxux": {
+      "temperatura": 26.7,
+      "timestamp": "2026-11-13 14:20:53"
+    },
+    "-P6KvIePzmxI9Zc-aB8R": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:20:55"
+    },
+    "-P6KvJBJsTaqoLsz7wXl": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:20:57"
+    },
+    "-P6KvK1cW76UBNNYi1CQ": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:20:59"
+    },
+    "-P6KvKDfwIYiLu8Yd8K_": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:02"
+    },
+    "-P6KvL-wJuIm2iJfc4kz": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:03"
+    },
+    "-P6KvM04jxhcTFcLd1Bw": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:06"
+    },
+    "-P6KvM9ge2KxL40tgexp": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:10"
+    },
+    "-P6KvMUOzzdXOI3mr83-": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:11"
+    },
+    "-P6KvMuMIfK7OcVS3rid": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:12"
+    },
+    "-P6KvNOICzZcJqJIG--z": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:14"
+    },
+    "-P6KvOBCFaynq6FmAyxa": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:16"
+    },
+    "-P6KvORZUvVNCacbNmgf": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:19"
+    },
+    "-P6KvPHrKZKf8dAakbfl": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:20"
+    },
+    "-P6KvPmDTdrGqDdbdG9-": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:24"
+    },
+    "-P6KvQ87iI72NSrBrU0d": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:26"
+    },
+    "-P6KvQRKSLogcLTDcFiI": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:27"
+    },
+    "-P6KvQzBz3SMrbUnN38i": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:29"
+    },
+    "-P6KvR69-bU5wNyaPr8F": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:31"
+    },
+    "-P6KvRSdZ2V5yqIbK4Xi": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:32"
+    },
+    "-P6KvRwAAg2PhQWhZp0P": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:34"
+    },
+    "-P6KvSWU78RajDVSQhPe": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:36"
+    },
+    "-P6KvT-kzvrghQ1YGMM2": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:38"
+    },
+    "-P6KvTRQphftCNAWbNnh": {
+      "temperatura": 26.6,
+      "timestamp": "2026-11-13 14:21:40"
+    },
+    "-P6KvTx_cgLBLvFz5lZK": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:42"
+    },
+    "-P6KvURfqmhTGlctAzxB": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:44"
+    },
+    "-P6KvUzLoPGQQlrOKCO1": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:46"
+    },
+    "-P6KvVUsXpKEt3cnSq4B": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:48"
+    },
+    "-P6KvVyk5euoIoxFDm35": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:50"
+    },
+    "-P6KvWS-2YJi44vsylLe": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:52"
+    },
+    "-P6KvWvJ8U93YIS-CAqm": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:54"
+    },
+    "-P6KvXS-gElF7zBI0HOu": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:56"
+    },
+    "-P6KvXtBqcy1LNEYeKlO": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:21:58"
+    },
+    "-P6KvYNxtTn6tM9XHQeT": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:00"
+    },
+    "-P6KvYvsbwQbIVvXrrxJ": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:02"
+    },
+    "-P6KvZPWYwiT4Ag3lz_g": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:04"
+    },
+    "-P6KvZslZssNEBloIXM1": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:06"
+    },
+    "-P6Kv_Rb23L3P1a8jpWv": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:08"
+    },
+    "-P6Kva461Q8fhBkooFw7": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:10"
+    },
+    "-P6KvaP6e6nFp6KxBpOT": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:12"
+    },
+    "-P6KvapuduyPSN3_ihJT": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:14"
+    },
+    "-P6KvbImbfNp3HaXW0sI": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:16"
+    },
+    "-P6KvbvphVxdOrWUiCIF": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:18"
+    },
+    "-P6KvcJMxG9HLU1UqBYB": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:20"
+    },
+    "-P6Kvcml0snPmaJCTeab": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:22"
+    },
+    "-P6KvdY7-HVzzrvnEHiJ": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:24"
+    },
+    "-P6KvdpLs0quhRYZ9MBC": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:26"
+    },
+    "-P6KveKUjAevipG3KB_8": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:29"
+    },
+    "-P6Kvf2b_jjM5YV4000c": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:31"
+    },
+    "-P6KvfJKUKX73RTAgY33": {
+      "temperatura": 26.5,
+      "timestamp": "2026-11-13 14:22:33"
+    },
+    "-P6KvfqZa0GOxdcaIBRl": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:35"
+    },
+    "-P6KvgH-LkskCbhSByl4": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:37"
+    },
+    "-P6KvgnC08PScq10S-8_": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:39"
+    },
+    "-P6KvhR4pU5uXxqLq75H": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:41"
+    },
+    "-P6KvhwNzoPywWhNLPyZ": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:43"
+    },
+    "-P6KviHxyXorp183KxbJ": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:45"
+    },
+    "-P6Kvij8IPINa1BHiwsZ": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:47"
+    },
+    "-P6KvjJnVao6D840Pna-": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:49"
+    },
+    "-P6KvjsabV9gfS0q7Cze": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:51"
+    },
+    "-P6KvkGwagCEGAKNDaLG": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:53"
+    },
+    "-P6KvkwLKsMs2HImBY5y": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:55"
+    },
+    "-P6KvlYoi90lP6yIGR4R": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:57"
+    },
+    "-P6Kvm192nNA_lb6biJb": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:22:59"
+    },
+    "-P6KvmGAuYU6C5xKJKLc": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:01"
+    },
+    "-P6KvmjCZLjpcKDOLeVh": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:03"
+    },
+    "-P6KvnZ4LkxbWEq3mV-i": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:05"
+    },
+    "-P6KvnxGFPWi5KdH2tcT": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:07"
+    },
+    "-P6KvoCeXxHGj56c3mdh": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:09"
+    },
+    "-P6KvofVIUj6zCXbCDQD": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:11"
+    },
+    "-P6KvpGUFo3Re6mgytWD": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:13"
+    },
+    "-P6Kvpwao3vPQe8zRAd-": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:15"
+    },
+    "-P6KvqCePuYnVLy8TXp1": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:17"
+    },
+    "-P6Kvqj6JYeF0ovQJ_JE": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:19"
+    },
+    "-P6Kvr7x5Gq0NFmF6bEE": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:21"
+    },
+    "-P6KvrgX-0WZ9XUs7b9G": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:23"
+    },
+    "-P6Kvs9L14OsRpN6geJE": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:25"
+    },
+    "-P6KvsdAeJMqVq4_dqj5": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:27"
+    },
+    "-P6Kvt9W0dwY3YszTWUB": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:29"
+    },
+    "-P6Kvta0wSMQvSxlVMRJ": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:31"
+    },
+    "-P6KvuCKukVKY0x4uiI3": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:33"
+    },
+    "-P6Kvv2dqnXQ7vg74cI-": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:35"
+    },
+    "-P6KvvExSt64u3bVRKFY": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:38"
+    },
+    "-P6Kvvob8m8x8wa2Y5iX": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:39"
+    },
+    "-P6KvwWyzoGgr88sg1oV": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:41"
+    },
+    "-P6Kvwj4pHmQhQStIw_0": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:44"
+    },
+    "-P6Kvx5oAgNikpaQzkdi": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:45"
+    },
+    "-P6KvxZybvCO-PQaM6iH": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:48"
+    },
+    "-P6Kvy3fPMuWGvRxLnRp": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:49"
+    },
+    "-P6KvydMM3CORJsA6dAT": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:52"
+    },
+    "-P6KvzMHmaYCP39xv5_6": {
+      "temperatura": 26.4,
+      "timestamp": "2026-11-13 14:23:54"
+    },
+    "-P6KvzZkIIntqN99_IpJ": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:23:56"
+    },
+    "-P6Kw-4OM8JP9xSXcKGc": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:23:58"
+    },
+    "-P6Kw-V4ZeCkJULBIy_7": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:00"
+    },
+    "-P6Kw092uKSJqjFvCE8Y": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:02"
+    },
+    "-P6Kw0ijMIvObyLEEHRw": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:04"
+    },
+    "-P6Kw113ILiypB917Rg6": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:06"
+    },
+    "-P6Kw1WcXOV2Ig-Gw8a2": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:08"
+    },
+    "-P6Kw2Eeac7ea7lYEE7T": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:10"
+    },
+    "-P6Kw31EgVgYje6jHaMV": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:12"
+    },
+    "-P6Kw4XxCEZ-55sHMV-R": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:15"
+    },
+    "-P6Kw4pnMz99ojQgXfal": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:21"
+    },
+    "-P6Kw5EyLIPFY7BCQYrd": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:22"
+    },
+    "-P6Kw5__fHlsd8RWxofY": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:24"
+    },
+    "-P6Kw5oJrSLiyc2rFU-p": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:25"
+    },
+    "-P6Kw5wqAHDRrqgkWw-_": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:26"
+    },
+    "-P6Kw6635wSvFrBX-e0j": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:26"
+    },
+    "-P6Kw73hiuVaSnLArcXN": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:28"
+    },
+    "-P6Kw7H-8kreQl3p7M_M": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:31"
+    },
+    "-P6Kw7Ud88GyJa-T6JVw": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:32"
+    },
+    "-P6Kw7xV1ws7ot6HtJL7": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:34"
+    },
+    "-P6Kw8f1Aw2yirFkmQjW": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:36"
+    },
+    "-P6Kw8ydg0DjEM2V0Ktv": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:38"
+    },
+    "-P6Kw9TzkXM6wNhWvSWA": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:40"
+    },
+    "-P6KwA4aocB0kLCyJrEc": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:42"
+    },
+    "-P6KwASnc7UEplrTXq6h": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:44"
+    },
+    "-P6KwB7UOORbmaYn8TnZ": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:46"
+    },
+    "-P6KwBQ4-0EZVeFDCILc": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:48"
+    },
+    "-P6KwBwJTbEcdHK_qyQm": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:50"
+    },
+    "-P6KwCM23ukPwEjoWhyx": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:52"
+    },
+    "-P6KwCwE8v4bOV7G1FlU": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:54"
+    },
+    "-P6KwDQKv9xqIJn7PHFO": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:24:56"
+    },
+    "-P6KwE0tB_Q9du5UB0wy": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:24:58"
+    },
+    "-P6KwEN34S5VFIOh7yJu": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:25:00"
+    },
+    "-P6KwEt1zhVhjJm3n_cE": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:25:02"
+    },
+    "-P6KwFObRMuPbmOx_bYP": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:04"
+    },
+    "-P6KwFuOBj_QyyGAjEAJ": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:06"
+    },
+    "-P6KwGabhNZxKqiogZXe": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:09"
+    },
+    "-P6KwH6qL3Ftxob1oUfw": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:10"
+    },
+    "-P6KwHMi8Z6NRI2qFJ2r": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:12"
+    },
+    "-P6KwHqfhRPKE2w67KVV": {
+      "temperatura": 26.3,
+      "timestamp": "2026-11-13 14:25:15"
+    },
+    "-P6KwIJmOduvOzD3xjKb": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:17"
+    },
+    "-P6KwJ0nADwHvDW-V1Cn": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:19"
+    },
+    "-P6KwJPROZqVXaA4mQhB": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:21"
+    },
+    "-P6KwJsiCNVbHxSifhpW": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:23"
+    },
+    "-P6KwKLlzgZVPC5wA9zE": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:25"
+    },
+    "-P6KwL6petszK6zHRuB0": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:27"
+    },
+    "-P6KwLSCszMFsL3jszPZ": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:29"
+    },
+    "-P6KwLp0JR8vpgHYlLIU": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:31"
+    },
+    "-P6KwMJQLMm3wJYjh8z-": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:33"
+    },
+    "-P6KwMtyVRT8eUsVYbCa": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:35"
+    },
+    "-P6KwNHaGgxAlzYR_RF6": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:37"
+    },
+    "-P6KwNqH2N7z1qQNplCi": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:39"
+    },
+    "-P6KwOGpgW-vPJLVEPlx": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:41"
+    },
+    "-P6KwOq1CkOjOH8x_IK9": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:43"
+    },
+    "-P6KwPEquZc5CkbKM5Q7": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:45"
+    },
+    "-P6KwPlCmWkJ-3rh8x3e": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:47"
+    },
+    "-P6KwQbLZ1h08ANDaoZp": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:49"
+    },
+    "-P6KwQmen_zXOfNkaIcR": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:25:51"
+    },
+    "-P6KwRL_crVEuwpOH5Xo": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:53"
+    },
+    "-P6KwS1D0lsBo5zPiRZT": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:55"
+    },
+    "-P6KwSDk_k-xujwbvxre": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:57"
+    },
+    "-P6KwSu29cSXefK4ZZrE": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:25:59"
+    },
+    "-P6KwTE2GR2H-DmFb_qs": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:26:01"
+    },
+    "-P6KwTojYQcRUU3Ev_KF": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:26:03"
+    },
+    "-P6KwUCXwo4PjjS-gHi_": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:26:05"
+    },
+    "-P6KwUgj6OBmrbURyo8_": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:26:07"
+    },
+    "-P6KwVEo5sROIT7HDVYT": {
+      "temperatura": 26.2,
+      "timestamp": "2026-11-13 14:26:09"
+    },
+    "-P6KwW1eGhIY4t0WHqdh": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:11"
+    },
+    "-P6KwWNtqDn8oS-5Eaua": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:14"
+    },
+    "-P6KwWhoGNV6Mbu6-0CJ": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:15"
+    },
+    "-P6KwX9MSE5m1hWw63sJ": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:17"
+    },
+    "-P6KwXhoobRdycusZi8M": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:19"
+    },
+    "-P6KwYANjfLcWrcGw9HQ": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:21"
+    },
+    "-P6KwYfRfPpEtPUqDfeh": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:23"
+    },
+    "-P6KwZJySwmMgPUHHSPF": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:25"
+    },
+    "-P6KwZdMuxNxNJR5Pf8y": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:27"
+    },
+    "-P6Kw_axZ6u3r6eRT9EJ": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:29"
+    },
+    "-P6Kw_r-G39hQJRrk5B1": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:32"
+    },
+    "-P6KwaFyxnw39T5NZvO9": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:34"
+    },
+    "-P6KwaZNbjVVtxEkqg-r": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:36"
+    },
+    "-P6KwbI7NT6OoR-gw1kf": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:38"
+    },
+    "-P6KwbgcOQ5R3NJ1Ilfb": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:40"
+    },
+    "-P6KwcXMjb1ySYfD0tWo": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:42"
+    },
+    "-P6Kwcu4fGZsHJIZ6ksk": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:44"
+    },
+    "-P6KwdAzp-dlIHT0tbqQ": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:46"
+    },
+    "-P6KwdZR4xRd0NHOL5Wc": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:48"
+    },
+    "-P6Kwe8KZJHlDSZYfBku": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:50"
+    },
+    "-P6KweW_6iFQTrMKyoeW": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:52"
+    },
+    "-P6Kwf0oX4aaSrGK2Hw9": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:54"
+    },
+    "-P6KwfXGh3Nh-zPztxWi": {
+      "temperatura": 26.1,
+      "timestamp": "2026-11-13 14:26:56"
+    },
+    "-P6Kwg5MpiXBYpO8UxkN": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:26:58"
+    },
+    "-P6KwgV_R6OcLmZaWnRx": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:00"
+    },
+    "-P6Kwh0pogVXaueazicr": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:02"
+    },
+    "-P6KwhW86frhlTSkAfeE": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:04"
+    },
+    "-P6Kwi-LGvjBb8dtMVZO": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:06"
+    },
+    "-P6KwiXm6Z9HV29DhOr-": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:08"
+    },
+    "-P6Kwj568yGWvq--ewrV": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:10"
+    },
+    "-P6KwjYuh2va5S8Ik3QI": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:12"
+    },
+    "-P6KwjypG9rxipr8PhKB": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:14"
+    },
+    "-P6KwkUZ8EaVPGcrL6bV": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:16"
+    },
+    "-P6KwkyUc-s9iBwOZnFy": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:18"
+    },
+    "-P6KwlS8ct9_kFYJc1yB": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:20"
+    },
+    "-P6KwlwOSUSkQp_-FYdj": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:22"
+    },
+    "-P6KwmSKgA4ZQ_0JnEMw": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:24"
+    },
+    "-P6Kwmvbn2sOi_r_JQT6": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:26"
+    },
+    "-P6KwnQcZuoguv9DxFuy": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:28"
+    },
+    "-P6Kwnvy8FzLSZnKmWkE": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:30"
+    },
+    "-P6KwoR9yyj9Ee1krKui": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:32"
+    },
+    "-P6Kwou_KHhnE_TeGVd9": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:34"
+    },
+    "-P6KwpVQysGjULk9O02O": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:36"
+    },
+    "-P6Kwpt08-AWDaW51WOx": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:38"
+    },
+    "-P6KwqO_nMvkWWcuhGSc": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:40"
+    },
+    "-P6KwqtldOx2ryP7Rc43": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:42"
+    },
+    "-P6KwrNVDEaDVd4Q1SnX": {
+      "temperatura": 26,
+      "timestamp": "2026-11-13 14:27:44"
+    },
+    "-P6KwrsdFuKX6Ui__3Sb": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:46"
+    },
+    "-P6KwsO3pO1A71l_AdmA": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:48"
+    },
+    "-P6Kwsru8z33AotHqox3": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:50"
+    },
+    "-P6KwtN0NLsqomO4O-jJ": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:53"
+    },
+    "-P6Kwtrdk8smL2GWQWuO": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:55"
+    },
+    "-P6KwuU08tFNWK_c8wxC": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:57"
+    },
+    "-P6KwuqvJyiw7JbLWB4B": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:27:59"
+    },
+    "-P6KwvcdNS3B6rVFPSZC": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:01"
+    },
+    "-P6Kwvpn_0mmuC-vcZxG": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:03"
+    },
+    "-P6KwwLKYo1Jw4jzo0Fx": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:05"
+    },
+    "-P6Kwwq2AUjF94gD4suN": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:07"
+    },
+    "-P6KwxJwtMrvNE8ihUcl": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:09"
+    },
+    "-P6KwxofGGqQo9HhDRwk": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:11"
+    },
+    "-P6KwyJA0Q1Xl2EJjUoY": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:13"
+    },
+    "-P6Kwz4J6dOo1sVEMghM": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:15"
+    },
+    "-P6KwzI9MJn11lQXpE7N": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:17"
+    },
+    "-P6KwzoFRvRU9unVKdOr": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:19"
+    },
+    "-P6Kx-ItefmraKkW9EAU": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:21"
+    },
+    "-P6Kx-pe9U-qTzbjBplF": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:23"
+    },
+    "-P6Kx0Lpo-yWvjgMakIw": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:25"
+    },
+    "-P6Kx0nYD79PeRhVQN9h": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:27"
+    },
+    "-P6Kx1HRXpOWRwkCw-z5": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:29"
+    },
+    "-P6Kx1kKicoNPV8N8CLI": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:31"
+    },
+    "-P6Kx2jxdMjYCvAJNlF7": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:33"
+    },
+    "-P6Kx2y7pDyHll9NWxhk": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:36"
+    },
+    "-P6Kx3cNlt669vGybFWD": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:37"
+    },
+    "-P6Kx59htsYDlkaqroGx": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:39"
+    },
+    "-P6Kx5kz30oCyLZBFkmY": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:46"
+    },
+    "-P6Kx5wNMlU-v_3fi49a": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:48"
+    },
+    "-P6Kx6Jju2qdDu4Cqu1C": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:49"
+    },
+    "-P6Kx6XwlfCtSoPfn_QC": {
+      "temperatura": 25.9,
+      "timestamp": "2026-11-13 14:28:50"
+    },
+    "-P6Kx6zo_F2P8KOvHxQY": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:51"
+    },
+    "-P6Kx79_QaENdc11CpYF": {
+      "temperatura": 25.8,
+      "timestamp": "2026-11-13 14:28:53"
+    }
+  }
+}
